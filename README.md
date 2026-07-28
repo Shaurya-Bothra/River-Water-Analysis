@@ -30,7 +30,7 @@ An overall water quality score was developed by comparing each parameter against
 
 ![Dashboard](images/Dashboard.png)
 ![Dashboard](images/Ranking.png)
-![Dashboard](images/BOD vs DO.png)
+![Dashboard](images/BOD_vs_DO.png)
 
 ---
 
